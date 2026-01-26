@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>고래모비🐳: 전문 소프트웨어 컨설팅</title>
+    <link>https://gorae.mobi/</link>
+    <description>Recent content on 고래모비🐳: 전문 소프트웨어 컨설팅</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>ko-kr</language>
     <lastBuildDate>Sun, 25 Jan 2026 14:23:43 +0900</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gorae.mobi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>https://gorae.mobi/about/</link>
       <pubDate>Sun, 25 Jan 2026 14:23:43 +0900</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>https://gorae.mobi/about/</guid>
       <description>&lt;p&gt;about?!&lt;/p&gt;&#xA;&lt;p&gt;CREATE=hugo new content content/about.md&lt;/p&gt;&#xA;&lt;p&gt;LAYOUT=page.html 사용&lt;/p&gt;</description>
     </item>
   </channel>

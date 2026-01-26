@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>https://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on 고래모비🐳: 전문 소프트웨어 컨설팅</title>
+    <link>https://gorae.mobi/categories/</link>
+    <description>Recent content in Categories on 고래모비🐳: 전문 소프트웨어 컨설팅</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language>
+    <atom:link href="https://gorae.mobi/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
